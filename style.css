@@ -1,0 +1,123 @@
+body {
+    text-align: center;
+    background-color: #040c22;
+    
+  }
+  
+  h1 {
+    font-size: 5rem;
+    color: #DBEDF3;
+  
+  }
+  
+.w-drum{
+    background-image: url("tom4.png");
+   padding: 4rem;
+   height: 3rem;
+   width: 3rem;
+   font-size: 3rem;
+   color: #eb2196;
+    border:  10px solid #404B69;
+    border-radius: 15px;
+    font-weight: 800;
+    text-shadow: 3px 0 #DBEDF3;
+    outline: none;
+  }
+  
+.a-drum{
+    background-image: url("tom1.png");
+    height: 3rem;
+    width: 3rem;
+    padding:4rem ;
+    font-size: 3rem;
+    color: #eb2196;
+    border:  10px solid #404B69;
+    border-radius: 15px;
+    font-weight: 800;
+    text-shadow: 3px 0 #DBEDF3;
+    outline: none;
+  }
+  
+.s-drum {
+    background-image: url("snare.png");
+    height: 3rem;
+    width: 3rem;
+    padding:4rem ;
+    font-size: 3rem;
+    color: #eb2196;
+    border:  10px solid #404B69;
+    border-radius: 15px;
+    font-weight: 800;
+    text-shadow: 3px 0 #DBEDF3;
+    outline: none;
+  }
+  
+.d-drum {
+    background-image: url("kick.png");
+    height: 3rem;
+    width: 3rem;
+    padding:4rem ;
+    font-size: 3rem;
+    color: #eb2196;
+    border:  10px solid #404B69;
+    border-radius: 15px;
+    font-weight: 800;
+    text-shadow: 3px 0 #DBEDF3;
+    outline: none;
+  }
+  
+.j-drum {
+    background-image: url("tom2.png");
+    height: 3rem;
+    width: 3rem;
+    padding:4rem ;
+    font-size: 3rem;
+    color: #eb2196;
+    border:  10px solid #404B69;
+    border-radius: 15px;
+    font-weight: 800;
+    text-shadow: 3px 0 #DBEDF3;
+    outline: none;
+  }
+  
+.k-drum {
+    background-image: url("tom4.png");
+    height: 3rem;
+    width: 3rem;
+    padding:4rem ;
+    font-size: 3rem;
+    color: #eb2196;
+    border:  10px solid #404B69;
+    border-radius: 15px;
+    font-weight: 800;
+    text-shadow: 3px 0 #DBEDF3;
+    outline: none;
+  }
+  
+  .l-drum {
+    background-image: url("crash.png");
+    height: 3rem;
+    width: 3rem;
+    padding:4rem ;
+    font-size: 3rem;
+    color: #eb2196;
+    border:  10px solid #404B69;
+    border-radius: 15px;
+    font-weight: 800;
+    text-shadow: 3px 0 #DBEDF3;
+    outline: none;
+  }
+
+.set {
+    margin-top: 150px;
+  } 
+
+footer{
+    margin-top: 100px;
+    color: #DBEDF3;
+    font-family: sans-serif;
+}
+
+
+
+  
